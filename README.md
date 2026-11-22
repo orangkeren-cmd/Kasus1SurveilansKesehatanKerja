@@ -12,4 +12,4 @@ Website jawaban praktikum MK Kesehatan Kerja, Pertemuan 9: dashboard surveilans 
 3. Pilih branch **main** dan folder **/(root)**, lalu klik **Save**.
 4. Tunggu 1–2 menit; alamat website muncul di bagian atas halaman Pages, biasanya `https://<username>.github.io/<nama-repo>/`.
 
-Semua data dalam kasus ini fiktif untuk latihan.
+
